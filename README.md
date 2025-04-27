@@ -142,3 +142,9 @@ Run command
 ```bash
 uvicorn main:app --reload
 ```
+#### example env
+I have given the example env, u can use elevnlabs api if no
+elevenlabs api agent application will use the  default google tts for voice generation but
+gemini api key is necessary.
+
+
