@@ -1,0 +1,24 @@
+
+# .gitignore
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+main.ipynb
+# Ignore data files
+data/
+# Ignore model files
+model/
+# Ignore logs
+logs/
+# Ignore environment files
+*.env
+# Ignore temporary files
+*.tmp
+# Ignore virtual environment directories
+venv/
+# Ignore IDE specific files
+.next/
+node_modules
+package-lock.json
